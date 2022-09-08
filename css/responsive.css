@@ -1,0 +1,515 @@
+/*responsive by koushik*/
+@media only screen and (max-width: 2300px) and (min-width: 1600px) {
+}
+ @media only screen and (max-width: 1024px) {
+ .banner_text h3 {
+ font-size: 50px;
+}
+.banner_text h6 {
+ font-size: 34px;
+}
+.banner_text h2 {
+ font-size: 34px;
+}
+ .problem_1 li {
+ font-size: 18px;
+}
+ .services-text-heading {
+ font-size: 22px;
+}
+}
+ @media only screen and (max-width: 991px) {
+ .banner_text {
+ top: 169px;
+ left: 87px;
+}
+.ph {
+ font-size: 20px;
+}
+.banner_text h2 {
+ font-size: 24px;
+}
+.banner_text h3 {
+ font-size: 35px;
+ margin: 12px 0;
+}
+.banner_text h6 {
+ font-size: 24px;
+}
+ .problem_1 li {
+ padding: 10px 10px;
+ font-size: 15px;
+}
+.problem_1 {
+ padding: 0;
+ margin: 95px 0 0;
+}
+.contact-list li {
+ margin-bottom: 10px;
+}
+.services-text-heading {
+ font-size: 17px;
+ padding: 15px 10px;
+}
+.services-text-box {
+ padding: 0 10px 20px;
+}
+.client-says h2 {
+ font-size: 24px;
+ margin-bottom: 5px;
+ margin-top: 5px;
+}
+ .client_says_text p {
+ font-size: 18px;
+ padding-bottom: 20px;
+ line-height: 22px;
+}
+.client_sac li h3 {
+ font-size: 18px;
+}
+ .address li a {
+ margin: 5px 0;
+ font-size: 18px;
+}
+.ftr_a h2 {
+ font-size: 28px;
+ margin-bottom: 15px;
+}
+.address {
+ padding: 0;
+ margin: 0 0 20px 0;
+}
+.top-services li a {
+ font-size: 18px;
+}
+.ftr_las {
+ margin-top: 20px;
+}
+.ftr_las p {
+ font-size: 17px;
+ padding-top: 26px;
+}
+.copyright p {
+ font-family: Muli-Regular;
+ color: #c63f3f;
+ font-size: 17px;
+ letter-spacing: 1px;
+}
+.footer_section {
+ padding: 20px 0;
+}
+}
+ @media only screen and (max-width: 768px) {
+.banner_text {
+ top: 169px;
+ left: 87px;
+}
+.ph {
+ font-size: 20px;
+}
+.banner_text h2 {
+ font-size: 24px;
+}
+.banner_text h3 {
+ font-size: 35px;
+ margin: 12px 0;
+}
+.banner_text h6 {
+ font-size: 24px;
+}
+ .problem_1 li {
+ padding: 10px 10px;
+ font-size: 15px;
+}
+.problem_1 {
+ padding: 0;
+ margin: 95px 0 0;
+}
+.contact-list li {
+ margin-bottom: 10px;
+}
+.services-text-heading {
+ font-size: 17px;
+ padding: 15px 10px;
+}
+.services-text-box {
+ padding: 0 10px 20px;
+}
+.client-says h2 {
+ font-size: 24px;
+ margin-bottom: 5px;
+ margin-top: 5px;
+}
+ .client_says_text p {
+ font-size: 18px;
+ padding-bottom: 20px;
+ line-height: 22px;
+}
+.client_sac li h3 {
+ font-size: 18px;
+}
+ .address li a {
+ margin: 5px 0;
+ font-size: 18px;
+}
+.ftr_a h2 {
+ font-size: 28px;
+ margin-bottom: 15px;
+}
+.address {
+ padding: 0;
+ margin: 0 0 20px 0;
+}
+.top-services li a {
+ font-size: 18px;
+}
+.ftr_las {
+ margin-top: 20px;
+}
+.ftr_las p {
+ font-size: 17px;
+ padding-top: 26px;
+}
+.copyright p {
+ font-family: Muli-Regular;
+ color: #c63f3f;
+ font-size: 17px;
+ letter-spacing: 1px;
+}
+.footer_section {
+ padding: 20px 0;
+}
+}
+ @media only screen and (max-width: 767px) {
+.banner_text {
+ position: absolute;
+ z-index: 99;
+ top: 35px;
+ left: 36px;
+}
+.header-top {
+ width: 100%;
+ position: unset;
+ background-image: linear-gradient(to right, #e6171c, #ed3f1c, #f4591e, #fa6f22, #ff842a);
+ padding: 10px 0;
+ text-align: center;
+}
+ .contact {
+ text-align: center;
+ margin: 20px 0 12px 0;
+}
+a.logo {
+}
+.logo img {
+width: 70%;
+}
+ .ph {
+ font-size: 24px;
+ text-align: center;
+}
+ .banner_text {
+ position: absolute;
+ z-index: 99;
+ top: 170px;
+ left: 120px;
+}
+ .banner_text h2 {
+ font-size: 30px;
+}
+.banner_text h6 {
+ font-size: 30px;
+}
+ .banner_text h3 {
+ font-size: 35px;
+ margin: 12px 0;
+}
+ .why-choose-us-text p {
+ padding: 0 0px;
+ margin-top: 25px;
+}
+ .problem_1 {
+ padding: 0;
+ margin: 15px 0 0;
+}
+.contact-list li {
+ margin-bottom: 15px;
+}
+ .client-says h2 {
+ font-size: 34px;
+ margin-bottom: 0px;
+}
+ .client_says_text p {
+ font-size: 18px;
+ padding-bottom: 50px;
+ line-height: 23px;
+}
+.address li a {
+ margin: 5px 0;
+ font-size: 18px;
+}
+.ftr_a h2 {
+ font-size: 28px;
+ margin-bottom: 15px;
+}
+.address {
+ padding: 0;
+ margin: 0 0 20px 0;
+}
+.top-services li a {
+ font-size: 18px;
+}
+.ftr_las {
+ margin-top: 20px;
+}
+.ftr_las p {
+ font-size: 17px;
+ padding-top: 26px;
+}
+.copyright p {
+ font-family: Muli-Regular;
+ color: #c63f3f;
+ font-size: 17px;
+ letter-spacing: 1px;
+}
+.footer_section {
+ padding: 20px 0;
+}
+ .review .col-md-3 {
+ border-bottom: 1px dashed #d2d2d2;
+ padding: 27px 0;
+}
+}
+ @media only screen and (max-width: 640px) {
+.banner_text {
+ position: absolute;
+ z-index: 99;
+ top: 35px;
+ left: 36px;
+}
+.header-top {
+ width: 100%;
+ position: unset;
+ background-image: linear-gradient(to right, #e6171c, #ed3f1c, #f4591e, #fa6f22, #ff842a);
+ padding: 10px 0;
+ text-align: center;
+}
+ .contact {
+ text-align: center;
+ margin: 20px 0 12px 0;
+}
+a.logo {
+}
+.logo img {
+width: 70%;
+}
+ .ph {
+ font-size: 24px;
+ text-align: center;
+}
+.banner_text h3 {
+ font-size: 60px;
+ margin: 8px 0;
+}
+.banner_text h2 {
+ font-size: 30px;
+}
+ .banner_text h6 {
+ font-size: 30px;
+}
+.why-choose-us-text p {
+ padding: 0 0px;
+ margin-top: 25px;
+}
+ .problem_1 {
+ padding: 0;
+ margin: 0 0 0;
+}
+ .contact-list li {
+ margin-bottom: 15px;
+}
+.client-says h2 {
+ font-size: 34px;
+ margin-bottom: 0px;
+ margin-top: 50px;
+}
+ .client_says_text p {
+ font-size: 18px;
+ padding-bottom: 50px;
+ line-height: 23px;
+}
+.address li a {
+ margin: 5px 0;
+ font-size: 18px;
+}
+.ftr_a h2 {
+ font-size: 28px;
+ margin-bottom: 15px;
+}
+.address {
+ padding: 0;
+ margin: 0 0 20px 0;
+}
+.top-services li a {
+ font-size: 18px;
+}
+.ftr_las {
+ margin-top: 20px;
+}
+.ftr_las p {
+ font-size: 17px;
+ padding-top: 26px;
+}
+.copyright p {
+ font-family: Muli-Regular;
+ color: #c63f3f;
+ font-size: 17px;
+ letter-spacing: 1px;
+}
+.footer_section {
+ padding: 20px 0;
+}
+}
+ @media only screen and (max-width: 480px) {
+ .banner_text {
+ position: absolute;
+ z-index: 99;
+ top: 35px;
+ left: 36px;
+}
+.header-top {
+ width: 100%;
+ position: unset;
+ background-image: linear-gradient(to right, #e6171c, #ed3f1c, #f40909, #fa6f22, #e30707);
+ padding: 5px 0;
+ text-align: center;
+}
+ .contact {
+ text-align: center;
+ margin: 20px 0 12px 0;
+}
+a.logo {
+}
+.logo img {
+/*width: 70%;*/
+}
+ .ph {
+ font-size: 24px;
+ text-align: center;
+}
+.banner_text h3 {
+ font-size: 30px;
+ margin: 8px 0;
+}
+.banner_text h2 {
+ font-size: 24px;
+}
+ .banner_text h6 {
+ font-size: 22px;
+}
+ #magic_voice .owl-dots {
+ top: 54px;
+}
+.why-choose-us-text h2 {
+ font-size: 24px;
+}
+ .why-choose-us-text {
+ padding: 30px 0;
+}
+.why-choose-us-text p {
+ font-size: 17px;
+ padding: 0 5px;
+ margin-top: 22px;
+}
+.problem_1 {
+ padding: 0;
+ margin: 5px 0 0;
+}
+ .problem_1 li {
+ padding: 10px 13px;
+}
+ .contact-list li {
+margin: 0 0 15px 0;
+}
+ .contact-list li a {
+ font-size: 24px;
+}
+ .services_heading {
+ font-size: 28px;
+ margin: 0 0 15px 0;
+}
+ .services {
+ padding: 50px 0 0;
+}
+.client-says {
+ padding: 110px 0;
+}
+ #one_stop_slider .owl-prev {
+ left: 42%;
+}
+ #one_stop_slider .owl-next {
+ right: 42%;
+}
+ .client_says_text {
+ margin: 20px 0 0 0;
+}
+ .client-says h2 {
+ font-size: 24px;
+ margin-bottom: 0px;
+ margin-top: 20px;
+}
+ .client_says_text p {
+ font-size: 15px;
+ padding-bottom: 10px;
+ line-height: 22px;
+ text-align: center;
+}
+.client_sac li h2 {
+ font-size: 24px;
+ margin: 10px 0 10px;
+ padding-bottom: 10px;
+}
+ .client_sac li h3 {
+ font-size: 15px;
+}
+ .address li a {
+ font-size: 15px;
+}
+ .top-services li {
+ background: url("../images/bullet_point.png") 0 8px no-repeat scroll;
+ width: 100%;
+}
+ .top-services li a {
+ font-size: 15px;
+}
+ .ftr_a h2 {
+ font-size: 24px;
+ margin-bottom: 15px;
+ margin-top: 10px;
+}
+ .ftr_las {
+ margin-top: 10px;
+}
+ .footer_section {
+ padding: 30px 0;
+}
+.ftr_las p {
+ font-size: 15px;
+ padding-top: 15px;
+}
+.copyright p {
+ font-size: 15px;
+}
+.whatsapp-icon{
+	position:fixed;
+	left:20px;
+	bottom:50px;
+	z-index:9999
+}
+.call-footer {
+	display: block;
+	position: fixed;
+	right: 10px;
+	bottom: 50px;
+	z-index: 99;
+}
+}
